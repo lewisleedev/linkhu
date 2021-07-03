@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+    "name": "Linkhu",
+    "version": "1.0.0",
+
+    "description": "경희대학교 학생을 위한 링크모음 익스텐션",
+    "icons": {
+        "16": "dist/icons/icon16.png",
+        "48": "dist/icons/icon48.png",
+        "128": "dist/icons/icon128.png"
+    },
+
+    "browser_action": {
+        "default_popup": "dist/index.html"
+    }
+}
